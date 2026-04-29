@@ -10,3 +10,4 @@
 3. [Task tracker (components)](https://github.com/AntonioLabinjan/Vue-Components-stuff)
 4. [Composables](https://github.com/AntonioLabinjan/PI_composables-stuff)
 5. [Kolokvij1](https://github.com/AntonioLabinjan/FIPU---PI---KOL1)
+6. [Router i Pinia](https://github.com/AntonioLabinjan/Bookshelf_sample)
