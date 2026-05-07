@@ -11,3 +11,4 @@
 4. [Composables](https://github.com/AntonioLabinjan/PI_composables-stuff)
 5. [Kolokvij1](https://github.com/AntonioLabinjan/FIPU---PI---KOL1)
 6. [Router i Pinia](https://github.com/AntonioLabinjan/Bookshelf_sample)
+7. [Kolokvij 2](https://github.com/AntonioLabinjan/FIPU_PI_kol2---sample)
